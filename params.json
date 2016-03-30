@@ -1,1 +1,7 @@
-{"name":"Zhangyongqing.GitHub.io","tagline":"个人博客","body":"# zhangyongqing.github.io\r\n个人博客\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Zhangyongqing.GitHub.io",
+  "tagline": "个人博客",
+  "body": "STL 常用数据操作\r\nbool empty() const \r\nvoid pop() 删除栈顶元素\r\nvoid push(const T& el） 将el插入栈的顶端\r\nsize_type size() const 返回栈的元素个数\r\nstack() 创建一个空栈\r\nT& top() 返回栈顶元素\r\nconst T& top() const 返回栈顶元素\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
